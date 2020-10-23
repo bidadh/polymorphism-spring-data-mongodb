@@ -1,4 +1,4 @@
-package com.ideabaker.samples.polymorphism.web
+package com.ideabaker.samples.polymorphism.web.request
 
 import com.fasterxml.jackson.annotation.JsonSubTypes
 import com.fasterxml.jackson.annotation.JsonTypeInfo

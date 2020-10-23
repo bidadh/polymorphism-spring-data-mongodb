@@ -1,4 +1,4 @@
-package com.ideabaker.samples.polymorphism.web
+package com.ideabaker.samples.polymorphism.web.request
 
 import com.ideabaker.samples.polymorphism.model.RecurrenceType
 

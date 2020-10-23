@@ -1,6 +1,7 @@
 package com.ideabaker.samples.polymorphism.web
 
 import com.ideabaker.samples.polymorphism.model.Group
+import com.ideabaker.samples.polymorphism.web.request.RecurrenceRequest
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.mongodb.core.ReactiveMongoTemplate

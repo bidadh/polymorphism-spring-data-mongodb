@@ -1,5 +1,8 @@
-package com.ideabaker.samples.polymorphism.model
+package com.ideabaker.samples.polymorphism.model.type
 
+import com.ideabaker.samples.polymorphism.model.DayOfWeek
+import com.ideabaker.samples.polymorphism.model.EveryType
+import com.ideabaker.samples.polymorphism.model.RecurrenceType
 import org.springframework.data.annotation.TypeAlias
 
 @TypeAlias("monthly")

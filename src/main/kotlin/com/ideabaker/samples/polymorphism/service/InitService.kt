@@ -1,11 +1,11 @@
 package com.ideabaker.samples.polymorphism.service
 
-import com.ideabaker.samples.polymorphism.model.Custom
-import com.ideabaker.samples.polymorphism.model.Daily
 import com.ideabaker.samples.polymorphism.model.Group
-import com.ideabaker.samples.polymorphism.model.Monthly
-import com.ideabaker.samples.polymorphism.model.OneTime
-import com.ideabaker.samples.polymorphism.model.Weekly
+import com.ideabaker.samples.polymorphism.model.type.Custom
+import com.ideabaker.samples.polymorphism.model.type.Daily
+import com.ideabaker.samples.polymorphism.model.type.Monthly
+import com.ideabaker.samples.polymorphism.model.type.OneTime
+import com.ideabaker.samples.polymorphism.model.type.Weekly
 import org.springframework.boot.context.event.ApplicationReadyEvent
 import org.springframework.context.annotation.Configuration
 import org.springframework.context.event.EventListener
